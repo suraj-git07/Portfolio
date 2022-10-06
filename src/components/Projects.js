@@ -97,7 +97,7 @@ const Projects = () => {
           <h3>GDSC-USICT NFT Collection</h3>
           <img src={gdsc} alt="gdsc Landing Page" />
           <p>
-            An NFT collection of Identity card for the members of Google
+            An NFT collection of Identity cards for the members of the Google
             Developer Student Clubs of my college GGSIPU USICT.
           </p>
 
