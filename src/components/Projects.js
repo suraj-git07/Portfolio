@@ -1,5 +1,6 @@
 // Import Assets
 import codeStory from "../assets/codeStory.jpeg";
+import gdsc from "../assets/gdsc.jpeg";
 import metaverse from "../assets/metaverse.png";
 import socialDapp from "../assets/social.png";
 
@@ -86,6 +87,56 @@ const Projects = () => {
           </a>
           <a
             href="https://github.com/suraj-git07/Social_NetworkDapp"
+            target="_blank"
+            className="button-30"
+          >
+            Code
+          </a>
+        </div>
+        <div className="projects__card">
+          <h3>GDSC-USICT NFT Collection</h3>
+          <img src={gdsc} alt="gdsc Landing Page" />
+          <p>
+            An NFT collection of Identity card for the members of Google
+            Developer Student Clubs of my college GGSIPU USICT.
+          </p>
+
+          <a
+            href="https://testnets.opensea.io/collection/gdsc-usict-v2"
+            target="_blank"
+            className="button-30"
+          >
+            Site
+          </a>
+          <a
+            href="https://github.com/suraj-git07/gdsc-card"
+            target="_blank"
+            className="button-30"
+          >
+            Code
+          </a>
+        </div>
+        <div className="projects__card">
+          <h3>TokenFarm</h3>
+          <img src={socialDapp} alt="socialDapp Landing Page" />
+          <p>
+            TokenFarm: It is a decentralized Finance Dapp built over the concept
+            of yield farming. Here users can come and stake their stable
+            cryptocurrency and earn dapp token over it in a specific interval. I
+            used the Ethereum test network for testing, React and node for
+            making a user-friendly website, and Solidity to write Smart
+            contracts.
+          </p>
+
+          {/* <a
+            href="https://testnets.opensea.io/collection/gdsc-usict-v2"
+            target="_blank"
+            className="button-30"
+          >
+            Site
+          </a> */}
+          <a
+            href="https://github.com/suraj-git07/Dapp_TokenFarm"
             target="_blank"
             className="button-30"
           >
