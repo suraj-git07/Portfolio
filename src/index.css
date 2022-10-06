@@ -55,7 +55,8 @@ code {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  background-image: url(https://freemanlaw.com/wp-content/uploads/2022/03/Proof-of-Stake-scaled.jpeg);
+  /* background-image: url(https://www.ibm.com/blogs/blockchain/wp-content/uploads/2019/05/Screen-Shot-2019-05-13-at-10.34.16-AM.png); */
+  background-image: url(./assets/banner.png);
   text-align: center;
 }
 
@@ -163,7 +164,7 @@ code {
 
 .projects__card {
   max-width: 350px;
-
+  width: fit-content !important;
   padding: 20px;
 
   border: 2px solid #E2D9FF;
@@ -203,9 +204,18 @@ code {
   background-color: #E2D9FF ;
   padding-top:30px ;
   padding-bottom:30px ;
-  /* margin-bottom: 10px; */
+  
+  text-align: center;
   
 }
+/* .skill__card{
+  width: fit-content;
+  padding: 20px;
+
+  border: 2px solid #E2D9FF;
+  border-radius: 8px;
+  margin-right: 20px;
+} */
 
 .skills h2 {
   font-size: 42px;
@@ -214,6 +224,13 @@ code {
   font-family: "Poppins";
   text-align: center;
 }
+/* .skill__card h3 {
+  font-size: 32px;
+  font-weight: 300;
+  margin-bottom: 10px;
+  font-family: "poppins";
+  
+} */
 
 
 .skilltext{
@@ -221,6 +238,7 @@ code {
   padding-left: 40px;
   padding-right: 40px;
   margin-left: 70px;
+  /* overflow: auto; */
   width:20vw;
   box-shadow: 0 0 2px rgb(80, 79, 79);
 }
@@ -234,6 +252,8 @@ code {
   background-color: #FFFFFF;
   box-shadow: 0 0 2px rgb(80, 79, 79);
   padding-top: 10px;
+  border-bottom-left-radius:0 ;
+  border-bottom-right-radius:0 ;
   
 }
 
@@ -262,7 +282,7 @@ code {
   text-align: center;
   background-color: #1B1B22;
   padding-top: 40px;
-  margin-top: 20px;
+  /* margin-top: 20px; */
   padding-bottom: 40px;
   /* border-radius: 20px; */
   /* border-top-left-radius: 0;
