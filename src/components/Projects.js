@@ -102,7 +102,7 @@ const Projects = () => {
           </p>
 
           <a
-            href="https://testnets.opensea.io/collection/gdsc-usict-v2"
+            href="https://testnets.opensea.io/collection/gdscusict"
             target="_blank"
             className="button-30"
           >
