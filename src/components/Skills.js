@@ -16,7 +16,7 @@ const Skills = () => {
           <h3>Frameworks</h3>
 
           <p>
-            Truffle<br></br> Node<br></br>Web3 Js <br></br>Ether Js <br></br>{" "}
+            HardHat<br></br>Truffle<br></br> Node<br></br>Web3 Js <br></br>Ether Js <br></br>{" "}
             React <br></br>
             Openzeppelin
             <br></br>BOOTSTRAP
