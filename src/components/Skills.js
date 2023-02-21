@@ -7,8 +7,8 @@ const Skills = () => {
           <h3>Languages</h3>
 
           <p>
-            Solidity <br></br> C/C++ <br></br>JAVASCRIPT<br></br> CSS3 <br></br>
-            HTML5<br></br> Python
+            Solidity <br></br> SmartPy <br></br> C/C++ <br></br>JAVASCRIPT<br></br> CSS3 <br></br>
+            HTML5<br></br> Python 
           </p>
         </div>
 
@@ -28,7 +28,7 @@ const Skills = () => {
 
           <p>
             Metamask<br></br> Remix IDE <br></br> GIT & GITHUB <br></br>Gelato
-            <br></br>IPFS<br></br>Geth
+            <br></br>IPFS<br></br>Geth <br></br> Arcana <br></br> Livepeer <br></br> Push 
           </p>
         </div>
       </div>
