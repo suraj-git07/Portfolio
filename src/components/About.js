@@ -7,14 +7,12 @@ const About = () => {
       <h2>About Me</h2>
       <p>
         I am Suraj Mishra, a second year Computer Science Engineering Student at
-        GGSIP university Dwarka. I am learning about blockchain and web3 since
-        last year and now building Dapps on Ethereum and polygon blockchain
-        using solidity, Truffle Ganache, etc.Currently reading "Mastering
-        Ethereum" book so that I can understand Ethereum technology deeply and
-        make secure and optimized smart contracts. I am also a web3 member of
-        the Google Developer Student Club of my college, where my main motive is
-        to learn, influence, and mentor my fellows about web3, and this is
-        helping me in my teaching, public speaking, and other soft skills also.
+        GGSIP university Dwarka. It's been more than a year of learning Blockchain and web3, 
+    and now building Dapps on Ethereum and polygon blockchain using tools like solidity, Truffle, hardhat Ganache, etc. 
+    Recently I even started exploring Tezos blockchain and learning SmartPY for writing smart contracts or organizations. 
+    I am currently a member of Tezos BuilderCamp1.0.
+
+    I participated in many hackathons like ETHIndia 22, ETHForALL 23, and many more college-level and organizations hackathons to explore my tech skills and create projects with my team ThirdEye.
       </p>
     </section>
   );
