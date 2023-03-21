@@ -9,7 +9,7 @@ const Experience = () => {
             Software Devlopement Cell, University School of Information,
             Communication and Technology
           </i>{" "}
-          - <strong>DevRel</strong>, 202-Present
+          - <strong>DevRel</strong>, 2023-Present
           <ul>
             <li>Initially Started as a web3 developer at SDC GGSIPU and in this new tenure at SDC, got the opportunity to use my communication and managing people skills to work with and for great devs and help SDC to grow to new heights.</li>
           </ul>
